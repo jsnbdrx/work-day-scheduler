@@ -8,8 +8,20 @@
 * CSS
 * JS
 
+* Bootstrap
+* JQUERY
+* AJAX
+* MOMENT.JS
+
 ## Website
 
-* 
+https://jsnbdrx.github.io/work-day-scheduler
 
 ## Contributions
+
+* Added script.js file to add interactive functionality to web app
+* updated style.css to be adaptive and user friendly for smaller screen devices
+* updated index.html to have each hour block
+
+
+<img width="845" alt="work day scheduler screenshot" src="https://user-images.githubusercontent.com/91853630/142750388-b09e009c-b38a-45f3-b45a-636078f4dbcb.png">
