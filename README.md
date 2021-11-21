@@ -8,11 +8,6 @@
 * CSS
 * JS
 
-* Bootstrap
-* JQUERY
-* AJAX
-* MOMENT.JS
-
 ## Website
 
 https://jsnbdrx.github.io/work-day-scheduler
